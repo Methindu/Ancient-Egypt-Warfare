@@ -29,7 +29,7 @@ div.section {
     background-color: white; 
 }
 
-div.section p{
+p{
     display: flex;
     flex-direction: column;
     margin: 10px  
