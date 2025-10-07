@@ -1,0 +1,41 @@
+body {
+    background-color: navajowhite;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+    margin: 10px;
+    padding: 10px;
+}
+
+div.title-box {
+    background-color: white;
+}
+
+div.main {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+div.section p{
+    display: flex;
+    flex-direction: column;
+    background-color: white;   
+}
+
+div {
+    border-radius: 10px;
+}
+
+div.section:hover {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+}
+
+img.section {
+    width: 50px;
+    height: 50px;
+}
