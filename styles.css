@@ -55,6 +55,12 @@ img.HomeButton {
     height: 50px;
 }
 
+img.weapon {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+}
+
 p {
     margin: 10px;
     font-family: 'Times New Roman', Times, serif;
