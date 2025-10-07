@@ -20,10 +20,14 @@ div.main {
     background-color: white;
 }
 
+div.section {
+    background-color: white; 
+}
+
 div.section p{
     display: flex;
     flex-direction: column;
-    background-color: white;   
+    margin: 10px  
 }
 
 div {
